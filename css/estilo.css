@@ -141,6 +141,10 @@ select:invalid {
     }
 }
 
+form.inativo{
+    display: none;
+}
+
 /* Tabela */
 table {
     width: 99%;
